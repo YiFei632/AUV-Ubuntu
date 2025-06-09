@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pku-yifei/catkin_ws_ros/auv_nx/ros_serial/install/setup.sh

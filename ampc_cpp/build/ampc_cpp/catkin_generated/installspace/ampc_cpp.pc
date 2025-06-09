@@ -1,0 +1,8 @@
+prefix=/home/pku-yifei/catkin_ws_ros/auv_nx/ampc_cpp/install
+
+Name: ampc_cpp
+Description: Description of ampc_cpp
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lampc_cpp
+Requires: roscpp std_msgs message_runtime

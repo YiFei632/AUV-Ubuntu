@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "dense": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/pku-yifei/catkin_ws_ros/auv_nx/ampc_cpp/src/ampc_cpp"
+}

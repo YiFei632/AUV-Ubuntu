@@ -1,0 +1,2 @@
+ros_serial
+-DCATKIN_DEVEL_PREFIX=/home/pku-yifei/catkin_ws_ros/auv_nx/ros_serial/devel -DCMAKE_INSTALL_PREFIX=/home/pku-yifei/catkin_ws_ros/auv_nx/ros_serial/install -G Unix Makefiles

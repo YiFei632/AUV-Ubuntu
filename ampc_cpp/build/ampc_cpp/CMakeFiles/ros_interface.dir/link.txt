@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libros_interface.so -o /home/pku-yifei/catkin_ws_ros/auv_nx/ampc_cpp/devel/lib/libros_interface.so CMakeFiles/ros_interface.dir/src/ros_interface.cpp.o 
